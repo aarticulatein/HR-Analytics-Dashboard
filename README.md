@@ -107,7 +107,7 @@ Key transformations included:
 
 # Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![HR Dashboard](dashboard.png)
 
 ---
 

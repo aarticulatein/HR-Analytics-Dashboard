@@ -1,5 +1,11 @@
 # HR Analytics Dashboard – Employee Attrition & Retention Insights
 
+# Dashboard Preview
+
+![HR Dashboard](dashboard.png)
+
+---
+
 ##  Project Overview
 
 This project focuses on analyzing employee attrition trends using the IBM HR Analytics Employee Attrition & Performance dataset.  
@@ -102,12 +108,6 @@ Key transformations included:
 - Low job satisfaction strongly correlated with higher attrition.
 - New joiners exhibited higher attrition rates compared to experienced employees.
 - Work-life balance and promotion-related factors influenced employee retention trends.
-
----
-
-# Dashboard Preview
-
-![HR Dashboard](dashboard.png)
 
 ---
 
